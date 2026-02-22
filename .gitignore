@@ -1,0 +1,30 @@
+# Compiled object files
+*.o
+*.obj
+*.exe
+*.out
+
+# Compiled libraries
+*.a
+*.so
+
+# Executable files
+a.out
+
+# Backup files
+*~
+*.swp
+
+# JetBrains IDE settings
+.idea/
+*.iml
+
+# VS Code settings (if you have it too)
+.vscode/
+
+# Logs
+*.log
+
+# Build directories
+build/
+bin/
