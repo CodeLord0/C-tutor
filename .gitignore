@@ -28,3 +28,18 @@ a.out
 # Build directories
 build/
 bin/
+
+madlibs
+calculator
+arrays
+functions
+bettercalc
+employees.txt
+files
+forloops
+guessingGame
+ifstatements
+memoryAddress
+structs
+twoDArray
+whileLoop
